@@ -1,4 +1,4 @@
-## Hello everyone 👋
+## SaySco App Project
 
 ### About Us :label:
 SaySco is an automatic essay scoring system Android-based app. This app is developed to fulfill Bangkit Academy 2023 H2 Capstone Project.
